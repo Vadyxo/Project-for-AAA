@@ -1,0 +1,63 @@
+.endi{
+   display: flex;
+    justify-content: space-between;
+    background: linear-gradient(180deg, #CACBBE 31.25%, #B38867 89.06%);
+   background-size: cover;
+min-width: 1200px; 
+}
+.ssilka1{
+    width: 180px;
+height: 180px;
+flex-shrink: 1;
+    border-radius: 25px;
+    background:url(../img/Instagram.png);
+    background-size: cover;
+}
+.ssilka2{width: 120px;
+    height: 120px;
+    flex-shrink: 1;
+        border-radius: 25px;
+        background:url(../img/logo.png);
+        background-size: cover;     
+}
+.ssilka3{
+    width: 120px;
+    height: 120px;
+    flex-shrink: 1;
+        border-radius: 25px;
+        background:url(../img/teleg.png);
+        background-size: cover; 
+}
+.ss1{
+color: #000000;
+font-family: Kaushan Script;
+font-size: 46px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 15px;
+margin-left: 10px;
+
+flex-shrink: 1;
+text-decoration:none;
+}
+.ss2{
+    color: #000000;
+font-family: Kaushan Script;
+font-size: 48px;
+
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 50px;
+margin-left: 10px;
+flex-shrink: 1;
+text-decoration:none;
+}
+.end1{
+  display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
+/*Концовка страницы инстаграм и тикток ссылки*/
