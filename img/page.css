@@ -1,0 +1,118 @@
+*{	margin:0;
+	padding:0;
+	border:0;}
+.firstpage{
+	background: url(../img/3.jpg);
+	background-position: center;
+	background-size: cover;
+	min-height: 870px;
+	height: 1000px;
+	margin-bottom: 200px;
+}
+.block{
+	display: flex;
+	justify-content: space-between;
+}
+.sert{
+	display: flex;
+	flex-shrink: 1;
+	width: 600px;
+	max-height: 600px;
+}
+.fotsert{
+	display: flex;
+	flex-shrink: 1;
+	width: 100%;
+	
+}
+.conteiner{
+min-width:1200px;
+}
+.hh{
+	color: #000000;
+	font-family: Kaushan Script;
+font-size: 88px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+flex-shrink: 1;
+filter:drop-shadow( 4px 4px 3px rgb(255, 255, 255));
+}
+.mainconteinr{	
+border-radius: 25px;
+background: rgba(207, 202, 202, 0.79);
+width: 488px;
+height: max-content;
+font-family: Sansation Light;
+margin-left: 5%;
+
+font-size: 28px;
+font-style: italic;
+font-weight: 300;
+line-height: normal;
+padding: 15px;
+flex-shrink: 1;
+text-indent: 3ch;
+}
+.mancont{
+	text-align: center;
+}
+.nastya
+{background: url(../img/nasta.jpg);
+	background-position: center;
+	background-size: cover;
+	border-radius: 25px;
+	border: 2px solid #000;
+	min-width: 420px;
+height: 500px;
+flex-shrink: 1;
+margin-left:  50px;
+margin-right: 50px;
+display: flex;
+flex-shrink: 1;
+}
+.fbutton{
+	margin-top: -200px;
+
+}
+.buttons{
+	border-radius: 25px 25px 0px 0px;
+	background: linear-gradient(180deg, rgba(194, 194, 194, 0.71) 0%, #CCCCBF 100%);
+display: flex;
+margin: auto;
+flex-shrink: 1;
+	padding-top: 8px;
+	border-radius: 25px 25px 0px 0px;
+	border-top: 2px solid #030300;
+	border-right: 2px solid #030300;
+	border-left: 2px solid #030300;
+	
+}
+.buttonhstr{border-radius: 25px;
+	width: 280px;
+height: 65px;
+flex-shrink: 1;
+background: rgba(255, 1, 1, 0.00);
+border-radius: 25px;
+border: 2px solid #505160;
+cursor: pointer;
+font-family: Sansation Light;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: normal;
+margin: auto;
+color: #000000;
+box-shadow: 15px 10px 10px rgb(3, 3, 2);
+
+}
+.test{
+	filter:drop-shadow( 8px 8px 3px black);
+}
+.buttonhstr:hover{
+	background: rgba(174, 189, 56, 0.58);
+	transition-duration: 0.5s;
+
+}
+
+/*первая*/
