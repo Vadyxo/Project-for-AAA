@@ -1,0 +1,189 @@
+.thrpage{
+    background: #626D71;
+ width: auto;
+}
+.wrapper{
+    display: flex;
+ margin-bottom: 5%;
+ margin-top: 5%;
+   justify-content: center;
+   
+}
+.table2{
+ display: flex;
+    padding-bottom: 5%;
+   justify-content: center;
+
+}
+
+.progone{
+    
+    border-radius: 25px;
+    background: url(../img/first2.jpg);
+    background-size: cover;
+    width: 490px;
+    height: 406px;
+flex-shrink: 1;
+padding-left: 25px;
+padding-top: 20px;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+box-shadow: 15px 10px 10px rgb(3, 3, 2);
+}
+.progtwo{
+    border-radius: 25px;
+    background: url(../img/first2.jpg);
+background-size: cover;
+flex-shrink: 1;
+padding-left: 25px;
+width: 490px;
+height: 406px;
+padding-top: 20px;
+font-family: Inter;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 100px;
+box-shadow: 15px 10px 10px rgb(3, 3, 2);
+
+   }
+   .progthre{
+    border-radius: 25px;
+    background: url(../img/first2.jpg);
+    background-size: cover;
+    flex-shrink: 1;
+    width: 490px;
+    height: 384px;
+    
+    padding-left: 25px;
+padding-top: 20px;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+box-shadow: 15px 10px 10px rgb(3, 3, 2);
+   }
+   .progfour{
+    border-radius: 25px;
+    background: url(../img/first2.jpg);
+    background-size: cover;
+    width: 490px;
+    height: 384px;
+    padding-left: 25px;
+    flex-shrink: 1;
+padding-top: 20px;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 100px;
+box-shadow: 15px 10px 10px rgb(3, 3, 2);}
+.head1{
+    display: flex;
+    margin: auto;
+padding-top: 20px;
+}
+   .hh1{color: #000000;
+    font-family: Sansation Light;
+    margin: auto;
+    font-size: 62px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: normal;
+    filter:drop-shadow( 4px 4px 3px rgb(255, 255, 255));}
+    .hh2{color: #000000;
+        font-family: Sansation Light;
+        margin: auto;
+        font-size: 62px;
+        font-style: italic;
+        font-weight: 300;
+        line-height: normal;
+        filter:drop-shadow( 4px 4px 3px rgb(255, 255, 255));}
+
+
+        .price1{
+            margin: 20px 125px;
+         
+            border-radius: 25px;
+            border: 2px solid #fffcfc;
+            flex-shrink: 1;
+            width: 236px;
+            height: 48px;
+            background: rgba(217, 217, 217, 0.00);
+            box-shadow: 15px 10px 10px rgb(3, 3, 2);
+            
+            cursor: pointer;
+        }
+        .price2{
+            margin:130px 125px;
+            border-radius: 25px;
+            border: 2px solid #fffcfc;
+            flex-shrink: 1;
+            width: 236px;
+            height: 48px;
+            background: rgba(217, 217, 217, 0.00);
+            box-shadow: 15px 10px 10px rgb(3, 3, 2);
+            cursor: pointer;
+        }
+        .price3{
+            margin:170px 125px;
+            border-radius: 25px;
+            border: 2px solid #fffcfc;
+            flex-shrink: 1;
+            width: 236px;
+            height: 48px;
+            background: rgba(217, 217, 217, 0.00);
+            box-shadow: 15px 10px 10px rgb(3, 3, 2);
+            cursor: pointer;
+        }
+        .price4{
+            background: rgba(217, 217, 217, 0.00);
+            box-shadow: 15px 10px 10px rgb(3, 3, 2);
+            margin:110px 125px;
+            border-radius: 25px;
+            border: 2px solid #fffcfc;
+            flex-shrink: 1;
+            width: 236px;
+            height: 48px;
+            cursor: pointer;
+        }
+        .price1:hover, .price2:hover, .price3:hover, .price4:hover, .send:hover{
+            background: rgba(174, 189, 56, 0.58);
+	transition-duration: 0.5s;
+
+        }
+        .pricetxt{
+            
+            color: #fffefc;
+            font-family: Figma Hand;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            flex-shrink: 1;
+        }
+        
+        .txttable{
+            box-shadow: 15px 10px 10px rgb(3, 3, 2);
+            margin-right: 25px;
+            padding-left: 20px;
+            border-radius: 25px;
+            border: 2px solid #000000;
+            color: #ffffff;
+            font-family: Figma Hand;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            
+        }
+        
+        /*третяя страница*/
