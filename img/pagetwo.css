@@ -1,0 +1,66 @@
+.secondpage{
+border-right: 2px solid #030300;
+border-left: 2px solid #030300;
+    background: linear-gradient(180deg, #CDCDC0 0%, #626D71 100%);
+
+    padding-top: 2%;
+    display: flex;
+    margin: auto;
+    flex-shrink: 1;
+}
+.history{
+    border-radius: 25px;
+    background: rgba(205, 205, 192, 0.69);
+    border: 2px solid #030300;
+width: 1094px;
+height: max-content;
+margin: auto;
+flex-shrink: 1;
+
+}
+
+.doptwo{
+    display: flex;
+height: max-content;
+flex-shrink: 1;
+background: #626D71;
+padding-top: 2%;
+display: flex;
+}
+.info{
+    border-radius: 140px;
+border: 2px solid #030300;
+background: rgba(205, 205, 192, 0.69);
+
+width: 1170px;
+height: max-content;
+flex-shrink: 1;
+margin: auto;
+padding: 25px;
+}
+.infoin{
+    margin-left: 40%;
+}
+.histall{font-family: Sansation Light;
+    margin: auto;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: normal;
+    margin-left: 2%;
+    padding: 15px;
+    flex-shrink: 1;
+    text-indent: 3ch;
+
+}
+.histhead{font-family: Sansation Light;
+    font-size: 58px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: normal;
+text-align: center;
+filter:drop-shadow( 4px 4px 3px black);
+}
+
+
+/*вторая страница*/
